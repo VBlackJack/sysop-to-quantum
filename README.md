@@ -3,6 +3,8 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
 
+**Feuille de route d'auto-formation : passer de l'administration système classique aux opérations quantiques (QuantumOps) en utilisant les outils DevOps standards.**
+
 Ce projet est une veille technologique active destinée aux équipes Infrastructure et Opérations. Il vise à préparer l'ère **Post-Quantique (PQC)** en intégrant les outils standards du DevOps (Terraform, Ansible, CI/CD) avec les nouveaux paradigmes du calcul quantique.
 
 ---
