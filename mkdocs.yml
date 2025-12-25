@@ -1,6 +1,6 @@
-site_name: Guide Ops : Transition vers le Quantique
+site_name: "Guide Ops : Transition vers le Quantique"
 site_author: Julien Bombled
-copyright: Copyright &copy; 2025 Julien Bombled - Apache 2.0 License
+copyright: "Copyright &copy; 2025 Julien Bombled - Apache 2.0 License"
 
 theme:
   name: material
@@ -16,9 +16,9 @@ theme:
 nav:
   - Accueil: index.md
   - Labs:
-    - 1. Hello World (Ping): labs/hello_world.md
-  - Glossaire: glossaire.md
+    - "1. Hello World (Ping)": labs/hello_world.md
+  - "1. Glossaire SysAdmin": glossaire.md
   - Infrastructure:
-    - Architecture Ref: infra/architecture.md
-    - Terraform: infra/terraform.md
-  - 3. Sécurité Post-Quantique: securite.md
+    - "Architecture Ref": infra/architecture.md
+    - "Terraform": infra/terraform.md
+  - "3. Sécurité Post-Quantique": securite.md
